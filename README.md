@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marwenhinnaoui
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning AngularJS and Vuejs
+- 🌱 I’m currently learning Flutter and Vuejs
 
 <!---
 marwenhinnaoui/marwenhinnaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
